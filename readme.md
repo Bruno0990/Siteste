@@ -1,8 +1,7 @@
 <h1 align="center"> Halgon </h1>
 
 <p align="center">
-Site criado afim de melhorar minhas capacidades na programação. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+Site criado afim de melhorar minhas capacidades na programação e utilizá-lo como um belo cartão de visita e porta para futuros projetos. <br/>
 </p>
 
 <p align="center">
@@ -35,18 +34,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Halgon é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)gh
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Projeto iniciado a partir do Layout [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
+- [Projeto do meu instrutor na construção desse modelo](https://maykbrito.github.io/devlinks/#)
+
+
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
